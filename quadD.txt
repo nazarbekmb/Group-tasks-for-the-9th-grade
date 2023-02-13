@@ -1,0 +1,45 @@
+quadD
+
+Nusqaýlar
+
+Berilgen eni x jáne bıiktigi y bolatyn jaramdy tiktórtburyshty basyp shyǵaratyn QuadD fýnksıasyn jazyńyz.
+Fýnksıa mysaldardaǵydaı tiktórtburyshtar salýy kerek.
+Eger x jáne y oń sandar bolsa, baǵdarlama mysaldarda kórsetilgendeı tiktórtburyshtardy basyp shyǵarýy kerek, áıtpese fýnksıa eshteńeni basyp shyǵarmaýy kerek.
+Baǵdarlamany iske qosý úshin barlyq qajetti faıldardy jibergenińizge kóz jetkizińiz.
+
+Paıdalaný
+Mine, sizdiń fýnksıańyzdy tekserýge arnalǵan múmkin baǵdarlamalar:
+
+№1 Baǵdarlama
+5
+3
+
+Jáne onyń nátıjesi:
+ABBBC
+B   B
+ABBBC
+
+№2 Baǵdarlama
+5
+1
+
+Jáne onyń nátıjesi:
+ABBBC
+
+№3 Baǵdarlama
+1
+1
+
+Jáne onyń nátıjesi:
+A
+
+№4 Baǵdarlama
+1
+5
+
+Jáne onyń nátıjesi:
+A
+B
+B
+B
+A
