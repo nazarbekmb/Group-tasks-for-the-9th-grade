@@ -1,5 +1,5 @@
 # Group-tasks-for-the-9th-grade
-Berilgen eni x jáne bıiktigi y bolatyn jaramdy tiktórtburyshty basyp shyǵaratyn QuadA fýnksıasyn jazyńyz.
+Berilgen eni x jáne bıiktigi y bolatyn jaramdy tiktórtburyshty basyp shyǵaratyn Quad* fýnksıasyn jazyńyz.
 
 Fýnksıa mysaldardaǵydaı tiktórtburyshtar salýy kerek.
 
