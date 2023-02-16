@@ -7,4 +7,4 @@ Eger x jáne y oń sandar bolsa, baǵdarlama mysaldarda kórsetilgendeı tiktór
 
 Baǵdarlamany iske qosý úshin barlyq qajetti faıldardy jibergenińizge kóz jetkizińiz.
 
-P.S. Suraqtaryńyz bolsa kelesi silteme arqyly https://t.me/+Lc7zsqq2EkxiN2Ji ótip qoıa alasyzdar, tapsyrmalardy juma kúni tapsyrýlaryńyz qajet, sáttilik:)
+P.S. Suraqtaryńyz bolsa kelesi silteme arqyly https://t.me/+rq0xb3r_USxlN2Ni ótip qoıa alasyzdar, tapsyrmalardy juma kúni tapsyrýlaryńyz qajet, sáttilik:)
